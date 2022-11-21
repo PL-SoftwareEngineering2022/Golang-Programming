@@ -6,4 +6,22 @@
     - Formatting Go Source Code
 
 ### Day 2 - Go Basics
-    - 
+    - Variables in Go
+    - Multiple Declarations
+    - Types and Zero Values
+    - Comments
+    - Naming Conventions in Go
+    - Package fmt
+    - Constants in Go
+    - Constant Rules
+    - Constant Expressions: Typed vs. Untyped Constants
+    - IOTA
+    - Go Data Types
+    - Operations on Types: Arithmetic and Assignment Operators
+    - Comparisaon and Logical Operators
+    - Overflows
+    - Converting Numeric Types
+    - Defined (Named) Types
+    - Alias Declarations
+
+### Day 
